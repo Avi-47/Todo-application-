@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Todo-application-/', // ⚠️ must match repo name exactly
+  base: '/reduxToolkitTodo/', // must match repo name
 })
